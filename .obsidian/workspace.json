@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "fb5dd9c75b8f501b",
+    "type": "split",
+    "children": [
+      {
+        "id": "fcc8a040c1a306fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8bf0e0afadfedce1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "code-generation/openapi.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2f05504542a2b6cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "8df8fb117511ae37",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da06569fd38a7cb9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7d120556cbca7512",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "647217824c0788ed",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "31a73bf13255d26d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0388ec15c6881d32",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb6f69236a0f7cf1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d89f1c98c90eaf9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "code-generation/openapi.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d59a20ae49ab6e55",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "code-generation/openapi.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "03f94b3ddb7183fe",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3a801cc80b7a74e6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "code-generation/openapi.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8bf0e0afadfedce1",
+  "lastOpenFiles": [
+    "network/nostr.md",
+    "code-generation/openapi.md",
+    "code-generation",
+    "encryption/yubikey/reference.md",
+    "encryption/yubikey",
+    "ic/thunderbold-controller/intel-74440.md",
+    "linux/backup.md",
+    "ic/thunderbold-controller",
+    "IC/Untitled.md",
+    "cache/dm-cache.md",
+    "visa/general.md",
+    "cache",
+    "used_product/server_power_supply/1200W_PS_Quite.md",
+    "used_product/server_power_supply",
+    "used_product",
+    "ic/hdmi/hdmi_retime.md",
+    "ic/pcie/pcie_switch.md",
+    "ic/hdmi",
+    "AE.canvas",
+    "linux/feature.md",
+    "linux/kernel.md",
+    "linux/application.md",
+    "machine_learning/stable_diffusion/stable_diffusion.md",
+    "ic/pcie",
+    "ic/ssd_controller/usb_to_pcie.md",
+    "library/c_c++.md",
+    "library/Untitled",
+    "machine_learning/pcb",
+    "ic/boost/LM5122.md",
+    "ic/buck_boost/MP4247.md",
+    "mac/APP.md",
+    "library/go.md",
+    "library/GO.md",
+    "golang/go-zero.md",
+    "DCDC_module_buck/HuaWei_NAE12S20-C.md",
+    "DCDC_module_buck/Hua Wei PW22ARAB PW22ASAB.md",
+    "DCDC_module_buck/ZXDN10.md"
+  ]
+}
