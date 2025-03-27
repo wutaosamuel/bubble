@@ -11,8 +11,12 @@
             "id": "8bf0e0afadfedce1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "cdn/general.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "cdn/general.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "cdn/general.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "cdn/general.md"
+              }
             }
           },
           {
@@ -147,10 +155,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "da06569fd38a7cb9",
+  "active": "8bf0e0afadfedce1",
   "lastOpenFiles": [
-    "code-generation/openapi.md",
+    "database/MVCC.md",
+    "cdn/general.md",
     "visa/general.md",
+    "cdn",
+    "code-generation/openapi.md",
     "visa",
     "used_product/server_power_supply/1200W_PS_Quite.md",
     "used_product/server_power_supply",
@@ -171,7 +182,6 @@
     "library/c_c++.md",
     "library",
     "ic/thunderbold-controller/intel-74440.md",
-    "ic/thunderbold-controller",
     "ic/ssd_controller/usb_to_pcie.md",
     "ic/ssd_controller/SM2262EN.md",
     "ic/sata_controller/ASM1166.md",
@@ -183,8 +193,6 @@
     "ic/boost/LM5122.md",
     "golang/go-zero.md",
     "filesystem/gocryptfs.md",
-    "filesystem/gluster.md",
-    "filesystem/Mergerfs.md",
     "AE.canvas"
   ]
 }
