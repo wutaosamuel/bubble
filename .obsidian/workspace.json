@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "fcc8a040c1a306fe",
+        "id": "4970c6bf836127a8",
         "type": "tabs",
         "children": [
           {
-            "id": "8bf0e0afadfedce1",
+            "id": "e505cf9dca5d1957",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cdn/general.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cdn/general.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cdn/general.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "cdn/general.md"
-              }
+              "state": {}
             }
           },
           {
@@ -155,10 +147,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8bf0e0afadfedce1",
+  "active": "e505cf9dca5d1957",
   "lastOpenFiles": [
-    "database/MVCC.md",
+    "nat/tools.md",
+    "machine_learning/stable_diffusion/stable_diffusion.md",
     "cdn/general.md",
+    "nat",
+    "database/MVCC.md",
     "visa/general.md",
     "cdn",
     "code-generation/openapi.md",
@@ -168,7 +163,6 @@
     "used_product",
     "network/nostr.md",
     "network",
-    "machine_learning/stable_diffusion/stable_diffusion.md",
     "machine_learning/stable_diffusion",
     "machine_learning",
     "mac/APP.md",
@@ -180,7 +174,6 @@
     "linux",
     "library/go.md",
     "library/c_c++.md",
-    "library",
     "ic/thunderbold-controller/intel-74440.md",
     "ic/ssd_controller/usb_to_pcie.md",
     "ic/ssd_controller/SM2262EN.md",
@@ -192,7 +185,6 @@
     "ic/buck_boost/MP4247.md",
     "ic/boost/LM5122.md",
     "golang/go-zero.md",
-    "filesystem/gocryptfs.md",
     "AE.canvas"
   ]
 }
