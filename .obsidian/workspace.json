@@ -4,15 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4970c6bf836127a8",
+        "id": "99b772c8371d8362",
         "type": "tabs",
         "children": [
           {
-            "id": "e505cf9dca5d1957",
+            "id": "3f50904aa7f7d9ec",
             "type": "leaf",
             "state": {
               "type": "empty",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -34,8 +36,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -50,7 +55,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -58,7 +65,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -88,7 +97,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
             }
           },
           {
@@ -99,7 +110,9 @@
               "state": {
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
             }
           },
           {
@@ -109,8 +122,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -118,7 +135,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           },
           {
@@ -126,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -147,9 +172,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e505cf9dca5d1957",
+  "active": "339ab71328e5fc8f",
   "lastOpenFiles": [
+    "network/GENEVE.md",
+    "network/IPsec.md",
     "nat/tools.md",
+    "network/nostr.md",
     "machine_learning/stable_diffusion/stable_diffusion.md",
     "cdn/general.md",
     "nat",
@@ -161,7 +189,6 @@
     "used_product/server_power_supply/1200W_PS_Quite.md",
     "used_product/server_power_supply",
     "used_product",
-    "network/nostr.md",
     "network",
     "machine_learning/stable_diffusion",
     "machine_learning",
@@ -183,8 +210,6 @@
     "ic/mos_controller/SC8701.md",
     "ic/hdmi/hdmi_retime.md",
     "ic/buck_boost/MP4247.md",
-    "ic/boost/LM5122.md",
-    "golang/go-zero.md",
     "AE.canvas"
   ]
 }
