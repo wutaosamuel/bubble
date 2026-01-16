@@ -1,5 +1,10 @@
 # Electrical Component
 
+- [BJT](#bjt)
+- [MOSFET](#mosfet)
+- [Varistor](#varistor)
+- [Power Divider](#power-divider)
+
 ## BJT
 
 - isolate hardware modules to reduce power
@@ -22,3 +27,17 @@
 
 - AO3401
   - P channel, V_ds = -30V, I_d(at V_gs = -10v) = -4.0A, V_gs = +- 12V
+
+## Varistor
+
+voltage dependent resistor
+
+- the resistance that various with applied voltage, exhibiting a high electrical resistance (M-ohm) at low voltage and allow current to flow in both direction
+
+## Power Divider
+
+a passive electronic component that splits an input signal's power into two or more output signals
+
+- splitting power
+- combining power (reverse)
+- isolation
